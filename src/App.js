@@ -1,11 +1,10 @@
-
-import './App.css';
-import Deshboard from './Dashboard';
+import "./App.css";
+import Deshboard from "./Dashboard";
 
 function App() {
   return (
     <div className="App">
-     <Deshboard/>
+      <Deshboard />
     </div>
   );
 }
